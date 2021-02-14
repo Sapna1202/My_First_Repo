@@ -1,0 +1,4 @@
+git commands:-
+add
+status
+git remote add origin
